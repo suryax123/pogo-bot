@@ -1,3 +1,4 @@
-pyTelegramBotAPI
+python-telegram-bot==20.3
 schedule
-
+requests
+ffmpeg-python
